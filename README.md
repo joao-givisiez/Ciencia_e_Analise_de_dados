@@ -222,7 +222,7 @@ jupyter notebook dados/Analise_de_Dados.ipynb
 
 **Resultado esperado:** Arquivo `dados/saidas/dataset_final_tratado.csv` gerado
 
-<<<<<<< HEAD
+
 ### 5. Executar Fase 2 (Modelagem Preditiva)
 
 ```bash
@@ -246,7 +246,7 @@ Acesse `http://localhost:8501` no navegador
 
 ## 📊 Visualizações Disponíveis
 
-### Fase 1
+### Fase 1 (pasta:saidas_1_fase)
 - **Heatmap de Correlação:** Relação entre todas as variáveis
 - **Scatter Plots:** IDHM vs Mortalidade, Tabagismo vs Mortalidade, etc.
 - **Séries Temporais:** Evolução da mortalidade por estado (2016-2018)
