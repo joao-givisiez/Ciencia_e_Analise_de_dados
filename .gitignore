@@ -42,7 +42,6 @@ Thumbs.db
 # Modelos e outputs locais (opcionais)
 modelos/
 *.pkl
-*.joblib
 
 
 # Variáveis de ambiente
