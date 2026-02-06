@@ -223,6 +223,7 @@ jupyter notebook dados/Analise_de_Dados.ipynb
 
 **Resultado esperado:** Arquivo `dados/saidas/dataset_final_tratado.csv` gerado
 
+<<<<<<< HEAD
 ### 5. Executar Fase 2 (Modelagem Preditiva)
 
 ```bash
@@ -243,6 +244,8 @@ streamlit run app.py
 Acesse `http://localhost:8501` no navegador
 
 ---
+=======
+>>>>>>> 966ecd1db8282b1fd642aeeb4a4d2c2e79f50feb
 
 ## 📊 Visualizações Disponíveis
 
