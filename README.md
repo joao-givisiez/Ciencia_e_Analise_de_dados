@@ -10,7 +10,8 @@ Este projeto realiza uma análise completa sobre a relação entre fatores socio
 
 📊 **Dashboard em Produção:** [https://erue9xjj8xotiktccy8ino.streamlit.app/](https://erue9xjj8xotiktccy8ino.streamlit.app/)
 
-Clique no link acima para acessar o dashboard interativo hospedado no **Streamlit Cloud**. Nenhuma instalação necessária! ☁️
+Clique no link acima para acessar o dashboard interativo hospedado no **Streamlit Cloud**. Nenhuma instalação necessária! Porém os modelos de ML nao serao carregados para 
+ser usado no dashboard.
 
 ---
 
