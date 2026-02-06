@@ -6,6 +6,14 @@ Este projeto realiza uma análise completa sobre a relação entre fatores socio
 
 ---
 
+## 🚀 Acesse o Dashboard Online
+
+📊 **Dashboard em Produção:** [https://erue9xjj8xotiktccy8ino.streamlit.app/](https://erue9xjj8xotiktccy8ino.streamlit.app/)
+
+Clique no link acima para acessar o dashboard interativo hospedado no **Streamlit Cloud**. Nenhuma instalação necessária! ☁️
+
+---
+
 ## 🎯 Objetivos Gerais
 
 ✅ **Fase 1 - Análise Exploratória:**
