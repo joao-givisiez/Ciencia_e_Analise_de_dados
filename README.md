@@ -52,8 +52,10 @@ Analise-de-dados-sobre-mortes-por-doen-as-isqu-micas-do-cora-o-no-brasil/
 │   ├── Analise_preditiva.ipynb                # 📓 Notebook Fase 2: Modelagem IA & SHAP
 │   └── app.py                                 # 🚀 Dashboard Streamlit interativo
 │
-├── .gitignore                                 # 🔒 Arquivos ignorados no Git 
-├── README.md                                  
+├── .gitignore                                 # 🔒 Arquivos ignorados no Git
+├── requirements.txt                           # 📦 Dependências Python (para Streamlit Cloud)
+├── README.md                                  # 📚 Este arquivo
+└── LICENSE                                    # 📄 Licença MIT                             
 
 ```
 
