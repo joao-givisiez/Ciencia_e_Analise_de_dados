@@ -38,7 +38,7 @@ Analise-de-dados-sobre-mortes-por-doen-as-isqu-micas-do-cora-o-no-brasil/
 │   │   └── leitos sus.csv
 │   │
 │   ├── saidas_1_parte/                        # 📊 Output Fase 1: Dados integrados
-│   │   └── dataset_final_tratado.csv          # Dataset unificado (81 linhas × 25+ colunas)
+│   │   └── ...dataset_final_tratado.csv          # Dataset unificado (81 linhas × 25+ colunas)
 │   │
 │   ├── saidas_2_parte/                        # 📈 Output Fase 2: SHAP visualizations
 │   │   ├── shap_summary_taxa_mortes_isquemicas_total_por_100k.png
@@ -52,9 +52,8 @@ Analise-de-dados-sobre-mortes-por-doen-as-isqu-micas-do-cora-o-no-brasil/
 │   ├── Analise_preditiva.ipynb                # 📓 Notebook Fase 2: Modelagem IA & SHAP
 │   └── app.py                                 # 🚀 Dashboard Streamlit interativo
 │
-├── .gitignore                                 # 🔒 Arquivos ignorados no Git (.venv, *.pkl, etc)
-├── README.md                                  # 📚 Este arquivo
-└── requirements.txt                           # 📦 Dependências Python
+├── .gitignore                                 # 🔒 Arquivos ignorados no Git 
+├── README.md                                  
 
 ```
 
@@ -244,8 +243,6 @@ streamlit run app.py
 Acesse `http://localhost:8501` no navegador
 
 ---
-=======
->>>>>>> 966ecd1db8282b1fd642aeeb4a4d2c2e79f50feb
 
 ## 📊 Visualizações Disponíveis
 
