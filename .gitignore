@@ -43,8 +43,7 @@ Thumbs.db
 modelos/
 *.pkl
 *.joblib
-*.csv
-shap_summary_*.png
+
 
 # Variáveis de ambiente
 .env
